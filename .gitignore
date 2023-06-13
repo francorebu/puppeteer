@@ -16,5 +16,4 @@ coverage/
 *.sqlite
 
 # Ignore any dependency lock files
-package-lock.json
 yarn.lock
