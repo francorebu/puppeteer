@@ -1,0 +1,20 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore any built/test artifacts
+dist/
+coverage/
+
+# Ignore environment-specific files
+.env
+.env.*
+
+# Ignore any log files
+*.log
+
+# Ignore any local development files
+*.sqlite
+
+# Ignore any dependency lock files
+package-lock.json
+yarn.lock
